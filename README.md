@@ -34,3 +34,5 @@ Features:
 
 -----
 This code is licensed under the MIT license.
+
+Finde ich gut
